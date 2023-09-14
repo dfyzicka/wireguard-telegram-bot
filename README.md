@@ -1,6 +1,6 @@
 # wireguard-telegram-bot
 
-<img alt="It was supposed to be a cool logo here" src="https://github.com/skoret/wireguard-telegram-bot/raw/dev/assets/logo.png" width="256" height="256" align="right">
+<img alt="It was supposed to be a cool logo here" src="https://github.com/dfyzicka/wireguard-telegram-bot/raw/dev/assets/logo.png" width="256" height="256" align="right">
 
 Simple-Dimple Telegram Bot for Wireguard VPN config generation
 
@@ -17,12 +17,12 @@ Just drop a message to [@wrgrdtgbot](https://t.me/wrgrdtgbot) and ask him for so
 [Install](https://www.wireguard.com/install/) Wireguard client for your device and import generated file or scan qr code
 
 <p align="center">
-  <img alt="bot screen 1" src="https://github.com/skoret/wireguard-telegram-bot/raw/dev/assets/bot/bot_1.png" width="300" />
-  <img alt="bot screen 2" src="https://github.com/skoret/wireguard-telegram-bot/raw/dev/assets/bot/bot_2.png" width="300" /> 
+  <img alt="bot screen 1" src="https://github.com/dfyzicka/wireguard-telegram-bot/raw/dev/assets/bot/bot_1.png" width="300" />
+  <img alt="bot screen 2" src="https://github.com/dfyzicka/wireguard-telegram-bot/raw/dev/assets/bot/bot_2.png" width="300" /> 
 </p>
 <p align="center">
-  <img alt="bot screen 3" src="https://github.com/skoret/wireguard-telegram-bot/raw/dev/assets/bot/bot_3.png" width="300" />
-  <img alt="bot screen 4" src="https://github.com/skoret/wireguard-telegram-bot/raw/dev/assets/bot/bot_4.png" width="300" />
+  <img alt="bot screen 3" src="https://github.com/dfyzicka/wireguard-telegram-bot/raw/dev/assets/bot/bot_3.png" width="300" />
+  <img alt="bot screen 4" src="https://github.com/dfyzicka/wireguard-telegram-bot/raw/dev/assets/bot/bot_4.png" width="300" />
 </p>
 
 > **Disclaimer:** stability, availability and security **are not** guaranteed! Sorry not sorry 👉🏻👈🏻
